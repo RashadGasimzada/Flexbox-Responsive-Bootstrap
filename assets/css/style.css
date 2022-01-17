@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-background:hover {
+    background-color: rgb(5,5,5);
+}
+.banner-box {
+    background-color: #EEEEEE;
+    height: 250px;
+    border-radius: 4px;
+}
+.sidebar {
+    background-color: #EEEEEE;
+    height: 410px;
+    border-radius: 4px;
+}
+.card {
+    border: none;
+}
+.btn {
+    background-color: white;
+    color: black;
+    border-color: #EEEEEE;
+}
